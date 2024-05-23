@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+button{
+    font-family: 'Outfit Thin ';
+}
+  
+*{
+    margin: 0;
+     padding: 0;
+    border: border-box;
+   color: white;
+}
+body{
+    background-color: #000;
+}  
+nav a{
+    font-family: 'sora';
+    font-size: 1.5rem; 
+    margin-left: -25px;
+}
+nav button{
+    background-color: rgb(130, 180, 64);
+    font-family: 'Outfit Thin' ;
+font-weight: 300;
+font-size: 31px;
+}
+#word{
+     color: rgb(130, 180, 64);
+      font-weight: 50;
+
+     
+}
+/* 
+#top{
+    justify-content: space-between;
+} */
+#word2{
+    color:#929292;
+}
+ 
+.img-thumbnail{
+height: 80px;
+border-radius: 100px;
+background-color: #262626;
+overflow: hidden;
+border:#262626 ;
+
+}
+
+#MotionEffect  {
+    margin-top: 8%;
+}
+
+/* .MotionEffect {
+    margin-left: 100px; 
+    margin-bottom: 7rem;
+    padding-top: 10px;
+    padding-right: 50px;
+    border-radius: 30px;
+    border: 1px solid #262626;  
+    /* width: 230px;
+    margin-top: 15%;  
+}  */
+
+#navbarNav{
+    display: flexbox;
+    justify-content: end;
+    font-family: 'Outfit Thin ', sans-serif;
+}
+
+ #purchasenow{
+margin-top: 15%;
+margin-left: 80%;
+width: 180px;
+height: 50px;
+ 
+font-weight: 200;
+font-size: 18px;
+font-family: 'Outfit Thin ', sans-serif;
+
+} 
+  
+  #purchasenow:hover {
+    border:  2px solid white;
+    color: white;
+    background-color: #000;
+    
+  }
+
+
+ #mid{
+    padding: 100px 10px 30px 0px;
+ }
+ #sideHeading{
+    font-family: 'Sora Regular', sans-serif;
+    text-transform: capitalize;
+letter-spacing: 0.1rem;
+font-weight: 500;
+   
+  }
+.first {
+    background: linear-gradient(to right,#FF6C33 , #6a11cb 8%);
+    -webkit-background-clip: text;
+    color: transparent;
+    background-clip: text; 
+}
+h1{
+    text-transform: capitalize;
+    letter-spacing: 0.1rem;
+}
+#centre h1  {
+    color: #EEE5FFBD;
+    font-family: "Outfit", Sans-serif;
+    font-size: 70px;
+    display: grid;
+    justify-content: center;
+    margin-top: -10rem;
+    margin-left: 9rem;
+     
+     font-stretch:wider ;
+     
+    /* line-height: 3.5rem;
+    letter-spacing: 2px; */
+font-weight: 400;
+} 
+
+#single{
+    line-height: 8;
+    padding: 10px;
+     margin-left: 100px;
+}
+
+#centre .first {
+    background: linear-gradient(to right,#FF6C33 , #6a11cb 40%);
+    background-clip: text; 
+}
+#images:nth-child(2) {
+    margin-left: 50px;
+}
+#image2 {
+    width: 170px;
+height: 30px;
+background-color: #000;
+} 
+h6{
+    color: #EEE5FFBD;
+    margin-right: 30px;
+}
+#secheading {
+    font-family: 'Outfit Thin ', sans-serif;
+    padding-top: 10%;
+
+
+}
+h6 {
+    letter-spacing: 1px;
+    line-height: 2;
+} 
+#PurchasefromEnvato{
+width: 30%;
+margin: 20px 0 0 10px;
+height: 60px;
+border-radius: 20px;
+background: linear-gradient(to left,#FF6C33 , #6a11cb 40%);
+ font-size: 1.5rem;
+ margin-bottom: 50px;
+    /* background-clip: text;  */
+}
+
+#Apply{
+    font-family: 'Outfit Thin ', sans-serif;
+    color: #EEE5FFBD;
+   font-size: 3rem;
+   
+
+}   
+#image3{
+    padding-top: 10px;
+    display: inline;
+  
+
+}
+
+#firstimage{
+    width: 600px;
+    height: 500px;
+    border-radius: 4%;
+    background-color: #2a1d48; /* Set the background color */
+    background-size: cover; /* Cover the entire box with the background image */
+    background-position: center; /* Center the background image */
+    border: 1px solid #463866;  
+    background-size: cover;
+
+   
+}
