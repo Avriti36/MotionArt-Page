@@ -1,2 +1,1 @@
-
-I ve created a clone website of the MotionEffect Arts with using the Frontend framework.
+I 've created  landing page for company to display there information and structure
